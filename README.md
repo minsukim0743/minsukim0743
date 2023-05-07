@@ -1,7 +1,7 @@
 #### Minsu GitHub!
 
 ## About me 
-https://minsukim0743.github.io/Portfolio/  
+<h2>https://minsukim0743.github.io/Portfolio/</h2>  
 
 ## Tech Stack 
 ### Front-end
