@@ -1,5 +1,5 @@
 #### 
-<h2>Minsu Github!</h2>
+<h1>Minsu Github!</h1>
 
 ## About me 
 <h4>https://minsukim0743.github.io/Portfolio/</h4>  
