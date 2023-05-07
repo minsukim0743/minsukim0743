@@ -1,5 +1,5 @@
 #### 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minsu GitHub!&fontSize=90" />
+<h2>Minsu Github!</h2>
 
 ## About me 
 <h4>https://minsukim0743.github.io/Portfolio/</h4>  
